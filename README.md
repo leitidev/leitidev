@@ -1,4 +1,7 @@
-<p align="center">Full stack developer <br><br> From backend development using Flask/Spring Boot to frontend development using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.&nbsp;
+<p align="center">Full stack developer <br><br> From backend development using Flask/Spring Boot to frontend development using React, I am <strong>passionate to 
+discover new stuffs</strong> and use them to create high quality solutions.&nbsp;
+
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leitidev&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leitidev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 
