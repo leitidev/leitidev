@@ -17,7 +17,7 @@ discover new stuffs</strong> and use them to create high quality solutions.&nbsp
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp; 
 ![SPRING BOOT](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 
-<img src="https://placewaifu.com/image/127" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://placewaifu.com/image/127" min-width="400px" max-width="400px" width="400px" align="right" alt="megumin">
 
 #### Secondary Stack:
 
