@@ -22,7 +22,7 @@ discover new stuffs</strong> and use them to create high quality solutions.&nbsp
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<img src="https://placewaifu.com/image/127" min-width="400px" max-width="400px" width="400px" align="right" alt="megumin">
+<img src="https://placewaifu.com/image/127" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
